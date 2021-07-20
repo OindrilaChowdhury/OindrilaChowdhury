@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OindrilaChowdhury
+- 👋 Hi, I’m OindrilaChowdhury
 - ⭐️ I’m interested in Testing and Research
 - 🌱 I’m currently learning Python
 - 🤝 I’m looking to collaborate on a Reputeted Software Company
